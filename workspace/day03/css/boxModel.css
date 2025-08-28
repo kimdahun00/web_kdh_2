@@ -1,0 +1,19 @@
+.div-block{
+  border : 1px dashed red;
+  width : 100px;
+  height: 100px;
+  margin : 20px;
+  padding : 20px;
+  text-align : center; /*텍스트 가운데 정렬*/
+  line-height: 100px; /* 텍스트 세로 정렬 */
+}
+
+.span-inline{
+  border : 1px dotted blue;
+  width : 100px;
+  height: 100px;
+  margin : 20px;
+  text-align : center; /*텍스트 가운데 정렬*/
+  line-height: 100px; /* 텍스트 세로 정렬 */
+  /*인라인 요소는 너비와 높이를 지정하지 못한다*/
+}
